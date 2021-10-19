@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit), trying to reach 15 stars. Please leave a star on the repo so I can add it to the [awesome-swift](https://github.com/matteocrippa/awesome-swift) list!
+
 <!--
 **philipturner/philipturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
