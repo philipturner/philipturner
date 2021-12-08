@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit), trying to reach 50 stars. Please leave a star on the repo so I can add it to the [awesome-ios](https://github.com/vsouza/awesome-ios) list!
+🔭 I'm currently working on resurrecting [Swift for TensorFlow](https://github.com/tensorflow/swift).
+
+🤔 I created [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) and am trying to reach 50 stars. Please leave a star on the repo so I can add it to the [awesome-ios](https://github.com/vsouza/awesome-ios) list!
 
 <!--
 **philipturner/philipturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
