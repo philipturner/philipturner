@@ -2,7 +2,7 @@
 
 🔭 I'm currently working on resurrecting [Swift for TensorFlow](https://github.com/tensorflow/swift).
 
-🤔 I created [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit), which brought the first AR headset experience accessible to the average person.
+🤔 I created [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit), which brought the first AR headset experiences accessible to the average person.
 
 <!--
 **philipturner/philipturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
