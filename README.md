@@ -4,6 +4,8 @@
 
 🤔 I created [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit), which brought the first AR headset experiences accessible to the average person.
 
+🤔 I also made [MultiPendulum](https://github.com/philipturner/multipendulum), a neat physics simulation that runs in your browser.
+
 <!--
 **philipturner/philipturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
