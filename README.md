@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm attempting to resurrect [Swift for TensorFlow](https://github.com/tensorflow/swift). For more information, see [resurrection-of-s4tf](https://github.com/philipturner/resurrection-of-s4tf).
+🔭 I'm in the process of bringing [Swift for TensorFlow](https://github.com/tensorflow/swift) back to life. Expect something epic by the middle of this year. For more information, see [resurrection-of-s4tf](https://github.com/philipturner/resurrection-of-s4tf).
 
 🤔 I created [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit), which brought the first AR headset experiences accessible to the average person.
 
