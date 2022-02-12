@@ -4,7 +4,7 @@
 
 🤔 I also made [MultiPendulum](https://github.com/philipturner/multipendulum), a mesmerizing physics simulation that runs in your browser.
 
-🔭 I'm currently working on bringing back [Swift for TensorFlow](https://github.com/tensorflow/swift).
+🔭 I'm currently bringing back [Swift for TensorFlow](https://github.com/tensorflow/swift), transforming it into a universal platform for GPU-accelerated machine learning.
 
 <!--
 **philipturner/philipturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
