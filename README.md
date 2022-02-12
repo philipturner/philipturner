@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<!--🔭 I'm trying to bring [Swift for TensorFlow](https://github.com/tensorflow/swift) back to life. For more information, see [resurrection-of-s4tf](https://github.com/philipturner/resurrection-of-s4tf).-->
-
 🤔 I created [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit), which brought the first AR headset experiences accessible to the average person.
 
 🤔 I also made [MultiPendulum](https://github.com/philipturner/multipendulum), a mesmerizing physics simulation that runs in your browser.
+
+🔭 I'm currently working on bringing back [Swift for TensorFlow](https://github.com/tensorflow/swift).
 
 <!--
 **philipturner/philipturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
