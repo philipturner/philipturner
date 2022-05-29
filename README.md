@@ -8,6 +8,12 @@
 
 📘 I post articles on Medium about science and technology. They are located at [medium.com/@philipturnerAR](https://medium.com/@philipturnerAR).
 
+<!-- 
+```swift
+let reality = "\u{47}\u{6f}\u{64} \u{2204}" 
+```
+-->
+
 <!--
 **philipturner/philipturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
