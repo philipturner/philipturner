@@ -6,7 +6,7 @@ let reality = "\u{47}\u{6f}\u{64} \u{2204}"
 ```
 -->
 
-🔭 I'm currently bringing back [Swift for TensorFlow](https://github.com/tensorflow/swift), transforming it into a universal platform for GPU-accelerated machine learning. Check out [s4tf-subprojects](https://github.com/philipturner/s4tf-subprojects) for an overview of this effort.
+⚡ I brought back [Swift for TensorFlow](https://github.com/tensorflow/swift), then worked on transforming it into a universal platform for GPU-accelerated machine learning. Check out [s4tf-subprojects](https://github.com/philipturner/s4tf-subprojects) for an overview of this effort.
 
 ⚡ I created [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit), which brought the first AR headset experiences accessible to the average person. This included [unprecedented research](https://github.com/philipturner/scene-color-reconstruction) into reconstructing reality in VR with constrained processing power.
 
