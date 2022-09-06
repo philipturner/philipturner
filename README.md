@@ -14,7 +14,7 @@ let reality = "\u{47}\u{6f}\u{64} \u{2204}"
 
 ⚡ I made [MultiPendulum](https://github.com/philipturner/multipendulum), a mesmerizing physics simulation that runs in your browser. You can even try it [in the real world](https://github.com/philipturner/ar-multipendulum) using the power of augmented reality.
 
-📘 I write [articles](https://medium.com/@philipturnerAR) on Medium about science and technology. This is one of my hobbies that isn't related to programming!
+📘 I write [Medium articles](https://medium.com/@philipturnerAR) about science and technology. This is one of my hobbies that isn't related to programming!
 
 <!--
 **philipturner/philipturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
