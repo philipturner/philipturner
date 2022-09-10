@@ -6,7 +6,7 @@ let reality = "\u{47}\u{6f}\u{64} \u{2204}"
 ```
 -->
 
-🔭 I'm currently exploring fun projects with the Apple GPU, such as:
+🔭 I'm currently exploring some fun projects with the Apple GPU:
 - Researching GPU-accelerated JSON parsing, as an evolution of [simdjson](https://github.com/simdjson/simdjson).
 - [Bringing Nanite](https://github.com/philipturner/ue5-nanite-macos) from Unreal Engine 5 to macOS.
 - Adding a Metal backend [to hipSYCL](https://github.com/illuhad/hipSYCL/issues/460).
