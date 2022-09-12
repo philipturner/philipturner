@@ -6,7 +6,7 @@ let reality = "\u{47}\u{6f}\u{64} \u{2204}"
 ```
 -->
 
-🔭 I'm currently [bringing Nanite](https://github.com/philipturner/ue5-nanite-macos) from Unreal Engine 5 to macOS.
+🔭 I'm currently porting and optimizing various features of Unreal Engine 5 on Apple platforms, [including Nanite](https://github.com/philipturner/ue5-nanite-macos).
 
 <!--
 🔭 I'm currently exploring some fun projects with the Apple GPU:
