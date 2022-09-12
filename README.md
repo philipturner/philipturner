@@ -6,7 +6,7 @@ let reality = "\u{47}\u{6f}\u{64} \u{2204}"
 ```
 -->
 
-🔭 I'm currently porting and optimizing various features of Unreal Engine 5 for Metal on Apple platforms. These include [Nanite](https://github.com/philipturner/ue5-nanite-macos), Virtual Shadow Maps, and Temporal Super Resolution.
+🔭 I'm currently [porting Nanite](https://github.com/philipturner/ue5-nanite-macos) from Unreal Engine 5 to Apple platforms. I'm also looking into optimizing several UE5 features for Metal 3.
 
 <!--
 🔭 I'm currently exploring some fun projects with the Apple GPU:
