@@ -6,7 +6,9 @@ let reality = "\u{47}\u{6f}\u{64} \u{2204}"
 ```
 -->
 
-🔭 I'm currently [porting Nanite](https://github.com/philipturner/ue5-nanite-macos) from Unreal Engine 5 to Apple platforms. I'm also seeking to optimize several UE5 features for Metal 3.
+🔭 I'm currently optimizing two modern computational chemistry packages for the Apple GPU, in preparation for a years-long deep dive into nanotechnology. GROMACS and AlphaFold 2 will be crucial to rapidly prototyping and simulating cheap, high-performance nanoscale computers.
+
+🔭 I'm also [porting Nanite](https://github.com/philipturner/ue5-nanite-macos) from Unreal Engine 5 to Apple platforms. This effort may conclude with optimizing several UE5 features for Metal 3.
 
 <!--
 🔭 I'm currently exploring some fun projects with the Apple GPU:
