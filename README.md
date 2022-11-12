@@ -10,7 +10,7 @@ let reality = "\u{47}\u{6f}\u{64} \u{2204}"
 
 ⚡ I recently worked on [porting Nanite](https://github.com/philipturner/ue5-nanite-macos) from Unreal Engine 5 to Apple platforms. This effort may conclude with optimizing several UE5 features for Metal 3.
 
-⚡ I brought back [Swift for TensorFlow](https://github.com/tensorflow/swift) and the [Swift Jupyter kernel](https://github.com/google/swift-jupyter), then worked on transforming S4TF into a universal platform for GPU-accelerated machine learning. For an overview of this effort, check out [s4tf-subprojects](https://github.com/philipturner/s4tf-subprojects).
+⚡ I brought back the [Swift Jupyter kernel](https://github.com/google/swift-jupyter) and (temporarily) [Swift for TensorFlow](https://github.com/tensorflow/swift), then worked on transforming S4TF into a universal platform for GPU-accelerated machine learning. For an overview of this effort, check out [s4tf-subprojects](https://github.com/philipturner/s4tf-subprojects).
 
 ⚡ I created [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit), which brought the first AR headset experiences accessible to the average person. This included research into [reconstructing reality](https://github.com/philipturner/scene-color-reconstruction) in VR with constrained processing power.
 
