@@ -6,7 +6,7 @@ let reality = "\u{47}\u{6f}\u{64} \u{2204}"
 ```
 -->
 
-🔭 I'm currently optimizing GROMACS for the Apple GPU, in preparation for research into nanotechnology.
+🔭 I'm currently optimizing molecular dynamics libraries for the Apple GPU, in preparation for research into nanotechnology.
 
 ⚡ I recently worked on [porting Nanite](https://github.com/philipturner/ue5-nanite-macos) from Unreal Engine 5 to Apple platforms. This effort may conclude with optimizing several UE5 features for Metal 3.
 
