@@ -14,7 +14,7 @@ let reality = "\u{47}\u{6f}\u{64} \u{2204}"
 
 ⚡ I created [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit), which brought the first AR headset experiences accessible to the average person. This included research into [reconstructing reality](https://github.com/philipturner/scene-color-reconstruction) in VR with constrained processing power.
 
-⚡ I made [MultiPendulum](https://github.com/philipturner/multipendulum), a mesmerizing physics simulation that runs in your browser. You can even try it [in the real world](https://github.com/philipturner/ar-multipendulum) through the power of augmented reality.
+⚡ I made [MultiPendulum](https://github.com/philipturner/multipendulum), a mesmerizing physics simulation that runs in your browser. You can also try it [in the real world](https://github.com/philipturner/ar-multipendulum) through the power of augmented reality.
 
 📘 I write [Medium articles](https://medium.com/@philipturnerAR) about science and technology. This is one of my hobbies that isn't programming!
 
