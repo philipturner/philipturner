@@ -6,9 +6,9 @@ let reality = "\u{47}\u{6f}\u{64} \u{2204}"
 ```
 -->
 
-🔭 I'm currently optimizing computational chemistry libraries for Apple GPUs.
+🔭 I recently [reverse-engineered](https://github.com/philipturner/metal-benchmarks) the M1 GPU. I'm now working on [optimized FP64 emulation](https://github.com/philipturner/metal-float64) and a SYCL backend. The end goal is to make Apple GPUs viable for scientific/high-performance computing (outside the sub-field of AI/ML).
 
-⚡ I recently worked on [porting Nanite](https://github.com/philipturner/ue5-nanite-macos) from Unreal Engine 5 to Apple platforms.
+⚡ I contributed to the ongoing effort to [port Nanite](https://github.com/philipturner/ue5-nanite-macos) from Unreal Engine 5 to Apple platforms.
 
 ⚡ I brought back the [Swift Jupyter kernel](https://github.com/google/swift-jupyter) and (temporarily) [Swift for TensorFlow](https://github.com/tensorflow/swift), then tried to transform S4TF into a universal platform for GPU-accelerated machine learning.
 
