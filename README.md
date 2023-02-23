@@ -6,7 +6,7 @@ let reality = "\u{47}\u{6f}\u{64} \u{2204}"
 ```
 -->
 
-🔭 I recently [reverse-engineered](https://github.com/philipturner/metal-benchmarks) the M1 GPU, and explored [high-performance FP64 emulation](https://github.com/philipturner/metal-float64). I'm currently making a Metal backend for [Open SYCL](https://github.com/OpenSYCL/OpenSYCL). The end goal is to make Apple GPUs viable for scientific/high-performance computing, outside the sub-field of AI/ML.
+🔭 I recently [reverse-engineered](https://github.com/philipturner/metal-benchmarks) the M1 GPU and explored [high-performance FP64 emulation](https://github.com/philipturner/metal-float64). I'm currently making a Metal backend for [Open SYCL](https://github.com/OpenSYCL/OpenSYCL). The end goal is to make Apple GPUs viable for scientific/high-performance computing, outside the sub-field of AI/ML.
 
 ⚡ I contributed to the ongoing effort to [port Nanite](https://github.com/philipturner/ue5-nanite-macos) from Unreal Engine 5 to Apple platforms.
 
