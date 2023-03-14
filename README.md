@@ -6,7 +6,7 @@ let reality = "\u{47}\u{6f}\u{64} \u{2204}"
 ```
 -->
 
-🔭 I want to make Apple silicon viable for scientific computing outside the sub-field of AI/ML. To this end, I boosted molecular dynamics performance tenfold using [OpenMM](https://openmm.org/) for GPU acceleration. The next project is the other half of computational chemistry, [quantum chemistry](https://github.com/philipturner/amx-benchmarks). The end result will be incredibly fast simulators for designing [molecular nanotechnology](https://en.wikipedia.org/wiki/Molecular_nanotechnology) - the final frontier in the fields of computer engineering and medicine.
+🔭 I want to make Apple silicon viable for scientific computing outside the sub-field of AI/ML. To this end, I boosted molecular dynamics performance tenfold using [OpenMM](https://openmm.org/) for GPU acceleration. The next project is the other half of computational chemistry, [quantum chemistry](https://github.com/philipturner/amx-benchmarks). The end result will be incredibly fast simulators for designing [molecular nanotechnology](https://en.wikipedia.org/wiki/Molecular_nanotechnology) - the final frontier in computer engineering and medicine.
 
 ⚡ I [reverse-engineered](https://github.com/philipturner/metal-benchmarks) the M1 GPU, explored [high-performance FP64 emulation](https://github.com/philipturner/metal-float64), and scoped out a Metal backend for [Open SYCL](https://github.com/OpenSYCL/OpenSYCL).
 
