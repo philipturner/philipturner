@@ -14,6 +14,21 @@
 
 📘 I write [Medium articles](https://medium.com/@philipturnerAR) about science and technology. This is one of my hobbies that isn't programming!
 
+📘 I occasionally publish research papers on GitHub. They are enumerated in the dropdown below:
+
+<details>
+<summary>Publications</summary>
+  
+  ---
+
+5/8/2023 - [Characterization of Noble Gas Dimers via Molecular Dynamics Simulation](https://github.com/philipturner/noble-gas-md-simulation)
+
+1/19/2022 - [ARHeadsetKit: Bringing Affordable AR Headset Technology to the Masses](https://github.com/philipturner/arheadsetkit-research-paper)
+
+6/3/2021 - [Adding Color to 3D Scene Reconstruction for Augmented Reality Headset Experiences Using an iPhone](https://github.com/philipturner/scene-color-reconstruction)
+
+</details>
+
 <!--
 **philipturner/philipturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
