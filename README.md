@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ Two years ago, I created [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit), which brought the first <b>spatial computing</b> experiences accessible to the average person. It is like [Apple Vision Pro](https://www.apple.com/apple-vision-pro), but 700x cheaper and available today. The project used LiDAR to [reconstruct reality](https://github.com/philipturner/scene-color-reconstruction) in three dimensions (rather than 2D) and used GPGPU to minimize power consumption.
+⚡ Two years ago, I created [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit), which brought the first <b>spatial computing</b> experiences accessible to the average person. It is like [Apple Vision Pro](https://www.apple.com/apple-vision-pro), but 700x cheaper and available today. The project used LiDAR to [reconstruct reality](https://github.com/philipturner/scene-color-reconstruction) in three dimensions and used GPGPU to minimize power consumption.
 
 ---
 
