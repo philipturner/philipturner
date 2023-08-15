@@ -23,6 +23,8 @@
 
 </details>
 
+![1500x500](https://github.com/philipturner/philipturner/assets/71743241/202bee56-e3cf-4e23-acc1-a7ec47df73e5)
+
 <!--
 **philipturner/philipturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
