@@ -6,34 +6,14 @@
 
 ⚡ I also made [MultiPendulum](https://github.com/philipturner/multipendulum), a mesmerizing physics simulation that runs in your browser. You can also try it [in the real world](https://github.com/philipturner/ar-multipendulum) with the power of augmented reality.
 
-📘 I write [Medium articles](https://medium.com/@philipturnerAR) about science and technology. This is one of my hobbies that isn't programming!
+📘 I wrote a few [Medium articles](https://medium.com/@philipturnerAR) about science and technology. This is one of my hobbies that isn't programming!
 
-📘 I occasionally publish research papers on GitHub. They are enumerated in the dropdown below:
+📘 I occasionally publish research papers on GitHub:
 
-<details>
-<summary>Publications</summary>
-  
-  ---
+12/2023 - [Studies of Diamond Mechanosynthesis and Computational Methods Employed](https://github.com/philipturner/diamond-mechanosynthesis-literature-review)
 
 5/8/2023 - [Characterization of Noble Gas Dimers via Molecular Dynamics Simulation](https://github.com/philipturner/noble-gas-md-simulation)
 
 1/19/2022 - [ARHeadsetKit: Bringing Affordable AR Headset Technology to the Masses](https://github.com/philipturner/arheadsetkit-research-paper)
 
 6/3/2021 - [Adding Color to 3D Scene Reconstruction for Augmented Reality Headset Experiences Using an iPhone](https://github.com/philipturner/scene-color-reconstruction)
-
-</details>
-
-<!--
-**philipturner/philipturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
