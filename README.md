@@ -4,6 +4,8 @@
 
 📘 I occasionally publish research papers on GitHub. I upload these and other educational documents to the Internet Archive. That way, they will always be available for free.
 
+12/7/2024 - [Mechanosynthetic Build Sequences for Semiconductor Materials with Three Degree of Freedom Nanopositioners](https://github.com/philipturner/mechanosynthetic-build-sequences)
+
 12/2023 - [Studies of Diamond Mechanosynthesis and Computational Methods Employed](https://github.com/philipturner/diamond-mechanosynthesis-literature-review)
 
 5/8/2023 - [Characterization of Noble Gas Dimers via Molecular Dynamics Simulation](https://github.com/philipturner/noble-gas-md-simulation)
